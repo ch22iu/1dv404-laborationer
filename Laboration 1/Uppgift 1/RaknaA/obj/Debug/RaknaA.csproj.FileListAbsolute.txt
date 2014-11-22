@@ -1,0 +1,6 @@
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaA\bin\Debug\RaknaA.exe.config
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaA\bin\Debug\RaknaA.exe
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaA\bin\Debug\RaknaA.pdb
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaA\obj\Debug\RaknaA.csprojResolveAssemblyReference.cache
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaA\obj\Debug\RaknaA.exe
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaA\obj\Debug\RaknaA.pdb

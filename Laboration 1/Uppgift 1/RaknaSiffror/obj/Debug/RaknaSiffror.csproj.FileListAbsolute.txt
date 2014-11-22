@@ -1,0 +1,8 @@
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaSiffror\bin\Debug\RaknaSiffror.exe.config
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaSiffror\bin\Debug\RaknaSiffror.exe
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaSiffror\bin\Debug\RaknaSiffror.pdb
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaSiffror\obj\Debug\RaknaSiffror.csprojResolveAssemblyReference.cache
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaSiffror\obj\Debug\RaknaSiffror.exe
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaSiffror\obj\Debug\RaknaSiffror.pdb
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaSiffror\obj\Debug\RaknaSiffror.message.resources
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\RaknaSiffror\obj\Debug\RaknaSiffror.csproj.GenerateResource.Cache

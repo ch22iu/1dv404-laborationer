@@ -1,0 +1,12 @@
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\NastStorsta\bin\Debug\NastStorsta.exe.config
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\NastStorsta\bin\Debug\NastStorsta.exe
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\NastStorsta\bin\Debug\NastStorsta.pdb
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\NastStorsta\obj\Debug\NastStorsta.csprojResolveAssemblyReference.cache
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\NastStorsta\obj\Debug\NastStorsta.exe
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration1\1\NastStorsta\obj\Debug\NastStorsta.pdb
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration 1\1\NastStorsta\bin\Debug\NastStorsta.exe.config
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration 1\1\NastStorsta\obj\Debug\NastStorsta.exe
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration 1\1\NastStorsta\obj\Debug\NastStorsta.pdb
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration 1\1\NastStorsta\bin\Debug\NastStorsta.exe
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration 1\1\NastStorsta\bin\Debug\NastStorsta.pdb
+C:\Users\chorre\Downloads\1dv404-master\1dv404-master\Laboration 1\1\NastStorsta\obj\Debug\NastStorsta.csprojResolveAssemblyReference.cache

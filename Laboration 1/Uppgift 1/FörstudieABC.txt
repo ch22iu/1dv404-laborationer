@@ -1,0 +1,26 @@
+1a
+
+Förstudie
+
+- Vad behöver jag ha med?
+- Input, WriteLine, count, c=> c lilla a och stora A.
+
+- Tid?
+- Cirka 5-10minuter
+
+- Väldigt enkelt program.
+
+Ref
+- Tog några mintuer att utföra uppgiften eftersom den var så liten så tycker jag att man inte behöva göra en så stor förstudie för att klara denna uppgift.
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Mata in en textrad:");
+            string input = Console.ReadLine();
+
+            int countSmalla = input.Count(c => c == 'a');
+            int countBigA = input.Count(c => c == 'A');
+
+            Console.WriteLine("Antal a: {0}\nAntal A: {1}", countSmalla, countBigA);
+            Console.ReadLine();
+        }
