@@ -11,7 +11,7 @@ Förstudie
 - Väldigt enkelt program.
 
 Ref
-- Tog några mintuer att utföra uppgiften eftersom den var så liten så tycker jag att man inte behöva göra en så stor förstudie för att klara denna uppgift.
+- Tog några mintuer att utföra uppgiften.
 
         static void Main(string[] args)
         {
