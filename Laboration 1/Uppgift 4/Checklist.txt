@@ -1,0 +1,44 @@
+Uppgift 1 – Tre "enkla" pgup
+
+- Planera för varje steg/moment
+- Scrum
+- Agilt tänkande
+- a,b,c: tid, fel, flaskhalsar osv
+
+1a - RaknaA - Text
+1b - RaknaSiffror - heltal
+1c - NastStorsta - calc.biggest
+
+- Klar: Reflektera
+
+
+Uppgift 2 – Förändring och förbättring
+
+Krav: 1 1A, 1500 ord 12pt
+
+2a. Ge exempel på några alternativa strategier som du kan använda i din
+planering av programmeringsuppgifterna.
+
+2b. Två av anledningarna till att din planering avviker från verkligheten är dels felen du gör dels alla andra saker som inträffar. Hur kan du ta hänsyn till eller minska konsekvenserna av dessa?
+
+Ge konkreta exempel baserat på dina erfarenheter.
+
+2c. Implementera två ”förbättringsåtgärder” i ditt planeringsarbete.
+
+Uppgift 3 – Förbättrad planering av programmering
+A
+- Planera steg för steg
+- --> 2c
+- Ta fram nya formulär
+- Dokumentera tiden det tar. (allt)
+B
+- Fel, stor som små
+C
+- Orsaker till avvikelser
+
+Uppgift 4
+
+- Hur man planera ett arbete.
+
+
+
