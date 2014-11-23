@@ -10,22 +10,24 @@ namespace Fraction
     {
         static void Main(string[] args)
         {
-            // Test - Exempel på bråktal
+            // Skapar upp ett nytt objekt utav Fraction klassen samt skicka med argument
+			
             Fraction firstFraction = new Fraction(1, 3);
             Fraction secondFraction = new Fraction(-1, 3);
 
-            // Addition test
-            Console.WriteLine("Addition: {0}/{1} + {2}/{3}: \n" + Fraction.add(firstFraction, secondFraction) + "\n",
+            // Skriver ut en text sträng med Fraction.add som jag skickar med firstFraction 
+			// samt andra lägger till ny rad samt skickar jag med nämnaren, täljaren och andra Nämnaren.
+			
+            Console.WriteLine(calc.newAddi + Fraction.add(firstFraction, secondFraction) + calc.row,
                 firstFraction.Numerator, firstFraction.Denominator, secondFraction.Numerator, secondFraction.Denominator);
 
-            // Multiplikation test
-            Console.WriteLine("Multiplikation: {0}/{1} * {2}/{3}: \n" + Fraction.multiply(firstFraction, secondFraction) + "\n",
+            // Skriver ut en text sträng med Fraction.multiply som jag skickar med firstFraction 
+			// samt andra lägger till ny rad samt skickar jag med nämnaren, täljaren och andra Nämnaren.
+			
+            Console.WriteLine(calc.newMulti + Fraction.multiply(firstFraction, secondFraction) + calc.row,
                 firstFraction.Numerator, firstFraction.Denominator, secondFraction.Numerator, secondFraction.Denominator);
 
             Console.ReadLine();
-            // isEqualTo Test
-            //Console.WriteLine("Representerar samma bråktal? \n{0}/{1} och {2}/{3}: " + Fraction.isEqualTo(firstFraction, secondFraction) + "\n",
-            //    firstFraction.Numerator, firstFraction.Denominator, secondFraction.Numerator, secondFraction.Denominator);
         }
     }
 }
