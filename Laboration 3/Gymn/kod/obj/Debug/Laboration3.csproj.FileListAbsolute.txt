@@ -16,3 +16,6 @@ C:\Users\Christopher\Desktop\1DV404_GruppC_Labb3_ch22iu\Laboration3\obj\Debug\La
 C:\Users\Christopher\Desktop\1DV404_GruppC_Labb3_ch22iu\Laboration3\bin\Debug\Laboration3.exe
 C:\Users\Christopher\Desktop\1DV404_GruppC_Labb3_ch22iu\Laboration3\bin\Debug\Laboration3.pdb
 C:\Users\Christopher\Desktop\1DV404_GruppC_Labb3_ch22iu\Laboration3\obj\Debug\Laboration3.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\1dv404-laborationer\Laboration 3\Gymn\kod\bin\Debug\Laboration3.exe.config
+C:\Users\Christopher\Documents\1dv404-laborationer\Laboration 3\Gymn\kod\obj\Debug\Laboration3.exe
+C:\Users\Christopher\Documents\1dv404-laborationer\Laboration 3\Gymn\kod\obj\Debug\Laboration3.pdb

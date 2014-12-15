@@ -8,12 +8,12 @@ namespace Laboration3
 {
     class test
     {
-        public void testvit()
+        public void testsvit()
         {
-            //Set-up test fixture
+            // Skapar upp ett nytt objekt utav Sport
             Sport sportTest1 = new Sport("SportTest", "TestGymnast");
 
-            //Execute tests
+            // Starta mina tester.
             test1(sportTest1._administrator);
             test2(sportTest1._administrator);
             test3(sportTest1._administrator);
