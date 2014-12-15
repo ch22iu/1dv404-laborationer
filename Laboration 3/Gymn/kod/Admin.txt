@@ -1,0 +1,75 @@
+class Admin
+    {
+        private int[] _score;
+        private double _finalScore;
+
+        public double FinalScore
+        {
+            get { return _finalScore; }
+            set { _finalScore = value; }
+        }
+        public Admin()
+        {
+            _score = new int[6];
+            FinalScore = 0.0;
+        }
+        public void registerScore(int[] input)
+        {
+            //Early version only uses setter function (to enable testing)
+            score = input;
+        }
+        public void calculateFinalScore(int[] scoreArray)
+        {
+            //Declare variables
+            double scoreCount = 0.0;
+            
+            //Sort scores
+            Array.Sort(scoreArray);
+
+            //Remove highest and lowest numbers and add all scores together
+            for (int i = 1; i < 5; i++)
+            {
+                scoreCount += (double)scoreArray[i];
+            }
+            FinalScore = scoreCount / 4.0;
+        }
+		
+		public int[] score
+        {
+            get 
+            {
+                return _score; 
+            }
+            set 
+            {
+                if (value.Length == 6)
+                {
+                    for (int i = 0; i < 6; i++)
+                    {
+                        if (value[i] < 11 && value[i] > 0)
+                        {
+                            _score[i] = value[i];
+                        }
+                        else
+                        {
+                            throw new ArgumentOutOfRangeException("Utanför det tillåtna intervallet <1 - 10>");
+                        }
+                    }
+                }
+
+                else
+                {
+                    throw new ArgumentOutOfRangeException("Utanför det tillåtna intervallet <6st>");
+                }
+            }
+        }
+		
+        public void finalScoreRegistration(double score, Gymnast gymnast, bool userInput)
+        {
+			if (userInput == true)
+            {
+                gymnast.Score = score;
+            }   
+        }
+    }
+}

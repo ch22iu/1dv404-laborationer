@@ -1,0 +1,13 @@
+class Sport
+    {
+        public string _name;
+        public Admin _administrator;
+        public Gymnast _gymnast;
+
+        public Sport(string name, string gymnast)
+        {
+            _name = name;
+            _administrator = new Admin();
+            _gymnast = new Gymnast(gymnast, name);
+        }
+    }
